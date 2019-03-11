@@ -1,0 +1,32 @@
+{
+  "name": "wp-skeleton",
+  "version": "1.0.0",
+  "description": "WP Skeleton for building plugins",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Blaz K.",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^9.4.10",
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-es2015": "^6.24.1",
+    "browser-sync": "^2.26.3",
+    "del": "^4.0.0",
+    "gulp": "^4.0.0",
+    "gulp-cssnano": "^2.1.3",
+    "gulp-postcss": "^8.0.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-uglify": "^3.0.2",
+    "gulp-watch": "^5.0.1",
+    "postcss-hexrgba": "^1.0.1",
+    "postcss-import": "^12.0.1",
+    "postcss-mixins": "^6.2.1",
+    "postcss-nested": "^4.1.2",
+    "postcss-simple-vars": "^5.0.2",
+    "webpack": "^4.29.6"
+  },
+  "dependencies": {}
+}
